@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Floyd 👋
 
-<!--
-**Shu-AFK/Shu-AFK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about C and C++ programming and always eager to connect with other developers.   
+I'm constantly learning new things and continually improving my skills. 
 
-Here are some ideas to get you started:
+## 💻 Code Languages I use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floyd&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🎯 Interests
+
+- Operating Systems
+- Algorithmic problem solving
+- Efficient coding
+
+## 🏆 GitHub Stats
+
+![Floyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=floyd&show_icons=true&theme=radical)
