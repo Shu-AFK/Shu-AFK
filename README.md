@@ -20,7 +20,7 @@ Here's a list of things I currently keep myself busy with:
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/Shu-AFK/my_project">
+<a href="https://github.com/Shu-AFK/Datatransmission">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=Datatransmission" alt="Datatransmission" />
 </a>
 
