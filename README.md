@@ -1,7 +1,14 @@
 # Hi, I'm Floyd 👋
 
-I'm passionate about C and C++ programming and always eager to connect with other developers.   
-I'm constantly learning new things and continually improving my skills. 
+I'm passionate about C and C++ programming and always eager to connect with other developers.    
+I'm constantly learning new things and continually improving my skills.
+
+![](https://komarev.com/ghpvc/?username=Shu-AFK&color=green)
+
+Here's a list of things I currently keep myself busy with:
+
+- 🌱 Learning design patterns in depth
+- 👯 I’m looking to collaborate on any project that I consider interesting
 
 ## 💻 Languages I use
 
@@ -10,3 +17,14 @@ I'm constantly learning new things and continually improving my skills.
 ## 🏆 GitHub Stats
 
 ![Floyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shu-AFK&show_icons=true&theme=radical)
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/Shu-AFK/my_project">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=Datatransmission" alt="Datatransmission" />
+</a>
+
+## 🏆 Tropies
+![trophy](https://github-profile-trophy.vercel.app/?username=Shu-AFK&theme=nord&column=7&margin-w=15&margin-h=15)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shu-AFK&theme=xcode)](https://github.com/Shu-AFK)
