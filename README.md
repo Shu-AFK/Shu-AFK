@@ -23,6 +23,9 @@ Here's a list of things I currently keep myself busy with:
 <a href="https://github.com/Shu-AFK/Datatransmission">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=Datatransmission" alt="Datatransmission" />
 </a>
+<a href="https://github.com/Shu-AFK/Chrono">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=Chrono" alt="Chrono" />
+</a>
 
 ## 🏆 Tropies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Shu-AFK&theme=nord&column=7&margin-w=15&margin-h=15)
