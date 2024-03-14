@@ -7,8 +7,8 @@ I'm constantly learning new things and continually improving my skills.
 
 Here's a list of things I currently keep myself busy with:
 
-- 🌱 Learning design patterns in depth
-- 👯 I’m looking to collaborate on any project that I consider interesting
+- 🌱 Working on my terminal based text editor for linux
+- 👯 Looking to contribute to projects I find interesting
 
 ## 💻 Languages I use
 
