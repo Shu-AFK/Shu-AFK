@@ -7,7 +7,7 @@ I'm constantly learning new things and continually improving my skills.
 
 Here's a list of things I currently keep myself busy with:
 
-- 🌱 Working on my terminal based text editor for linux
+- 🌱 Working on some projects
 - 👯 Looking to contribute to projects I find interesting
 
 ## 💻 Languages I use
@@ -25,6 +25,9 @@ Here's a list of things I currently keep myself busy with:
 </a>
 <a href="https://github.com/Shu-AFK/Chrono">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=Chrono" alt="Chrono" />
+</a>
+<a href="https://github.com/Shu-AFK/Aether">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=Aether" alt="Aether" />
 </a>
 
 ## 🏆 Tropies
