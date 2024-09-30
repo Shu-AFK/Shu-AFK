@@ -23,8 +23,8 @@ Here's a list of things I currently keep myself busy with:
 <a href="https://github.com/Shu-AFK/Datatransmission">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=Datatransmission" alt="Datatransmission" />
 </a>
-<a href="https://github.com/Shu-AFK/Chrono">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=Chrono" alt="Chrono" />
+<a href="https://github.com/Shu-AFK/fttp">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=fttp" alt="fttp" />
 </a>
 <a href="https://github.com/Shu-AFK/Aether">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=Aether" alt="Aether" />
