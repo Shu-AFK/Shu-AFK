@@ -26,9 +26,10 @@ Here's a list of things I currently keep myself busy with:
 <a href="https://github.com/Shu-AFK/fttp">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=fttp" alt="fttp" />
 </a>
-<a href="https://github.com/Shu-AFK/Aether">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=Aether" alt="Aether" />
+<a href="https://github.com/Shu-AFK/WawiIC">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=WawiIC" alt="WawiIC" />
 </a>
+
 <a href="https://github.com/Shu-AFK/mcd">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=mcd" alt="MCD" />
 </a>
