@@ -34,6 +34,10 @@ Here's a list of things I currently keep myself busy with:
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=mcd" alt="MCD" />
 </a>
 
-## 🏆 Tropies
-![trophy](https://github-profile-trophy.vercel.app/?username=Shu-AFK&theme=nord&column=7&margin-w=15&margin-h=15)
+## 🏆 Trophies
+<div align="center">
+  <a href="https://github.com/Shu-AFK">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shu-AFK&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Profile Trophies for Shu-AFK" />
+  </a>
+</div>
 
