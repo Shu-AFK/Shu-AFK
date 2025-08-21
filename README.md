@@ -1,6 +1,6 @@
 # Hi, I'm Floyd 👋
 
-I'm passionate about C and C++ programming and always eager to connect with other developers.    
+I'm passionate about C, C++ and Go programming and always eager to connect with other developers.    
 I'm constantly learning new things and continually improving my skills.
 
 ![](https://komarev.com/ghpvc/?username=Shu-AFK&color=green)
