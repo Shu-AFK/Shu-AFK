@@ -17,7 +17,7 @@ Here's a list of things I currently keep myself busy with:
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/Shu-AFK/Datatransmission">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=Datatransmission" alt="Datatransmission" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=Datatransmission" alt="datatransmission" />
 </a>
 <a href="https://github.com/Shu-AFK/fttp">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=fttp" alt="fttp" />
@@ -26,8 +26,8 @@ Here's a list of things I currently keep myself busy with:
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=WawiIC" alt="WawiIC" />
 </a>
 
-<a href="https://github.com/Shu-AFK/mcd">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=mcd" alt="MCD" />
+<a href="https://github.com/Shu-AFK/kdexg">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=kdexg" alt="kDEXG" />
 </a>
 
 ## 🏆 Trophies
