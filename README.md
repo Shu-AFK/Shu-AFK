@@ -26,8 +26,8 @@ Here's a list of things I currently keep myself busy with:
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=WawiIC" alt="WawiIC" />
 </a>
 
-<a href="https://github.com/Shu-AFK/kdexg">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=kdexg" alt="kDEXG" />
+<a href="https://github.com/Shu-AFK/bm">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Shu-AFK&repo=bm" alt="bm" />
 </a>
 
 ## 🏆 Trophies
